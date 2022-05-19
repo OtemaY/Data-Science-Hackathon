@@ -17,22 +17,21 @@ who trust medical information shared by others on their social media networks
 (Search Engine Watch)
 
 
-
-
 ## Understanding the Data
+
+The data will be sourced from two sources. Both sources are of twitter data, however, one will be scraped from Twitter through the web scraping technique. And the other will be from the Zindi Data Platform.
 
 Twitter is a becoming a big source and dissemination platform for health information 
 (Journal of Clinical Medicine, 2018)
 
 ## Data Findings
 
-Twitter Scraping
-
-vs
-
-Zindi
+Exploratory Data Analysis
 
 ## Data Modelling
+
+Language used: Python
+
 
 ## Summary and Impact
 
