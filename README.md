@@ -30,10 +30,9 @@ Twitter is a becoming a big source and dissemination platform for health informa
 
 Exploratory Data Analysis to examine data
 
-## Data Modelling
-
 ![image](https://user-images.githubusercontent.com/42874096/173897252-e84bc7be-b431-491a-9d0a-7edeac6c7ae3.png)
 
+## Data Modelling
 
 Processes:
 Exploratory Data Analysis
