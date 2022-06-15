@@ -19,25 +19,43 @@ who trust medical information shared by others on their social media networks
 
 ## Understanding the Data
 
-The data will be sourced from two sources. Both sources are of twitter data, however, one will be scraped from Twitter through the web scraping technique. And the other will be from the Zindi Data Platform.
+The data was sourced from the Zindi Data Platform. The Zindi Data contains 10,001 tweets. 
+
+The data includes sentiment of users grouped into three categories
 
 Twitter is a becoming a big source and dissemination platform for health information 
 (Journal of Clinical Medicine, 2018)
 
 ## Data Findings
 
-Exploratory Data Analysis
+Exploratory Data Analysis to examine data
 
 ## Data Modelling
 
-Language used: Python
+![image](https://user-images.githubusercontent.com/42874096/173897252-e84bc7be-b431-491a-9d0a-7edeac6c7ae3.png)
 
+
+Processes:
+Exploratory Data Analysis
+Model Training and Validation
+
+Language used: Python
+Classification models:
+
+RandomForestClassifier : Accuracy - 73%
+
+NaiveBaiyesClassifier : Accuracy - 82%
+
+Deployment platform: Microsoft Azure
 
 ## Summary and Impact
 
-## Future Works
+- Sentiments on vaccination are largely neutral
+- Sentiments are positive when associated with children
+- The model can help improve public health policy
+- The model can help vaccine communication strategies, and vaccination programs across the world
 
 
 
 
-### Work completed with 2 teammates
+Work completed with 2 teammates
