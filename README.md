@@ -57,4 +57,4 @@ Deployment platform: Microsoft Azure
 
 
 
-Work completed with 2 teammates
+Work completed with 2 teammates for a Data Science Hackathon
